@@ -1,0 +1,16 @@
+{
+  "timestamp": "2025-07-06T11:53:53.343024",
+  "anomaly_type": "fire",
+  "confidence": 0.7,
+  "description": "A fire is visible near a white van or truck. The flames are not intense, but the presence of fire presents a significant safety hazard.",
+  "severity": "high",
+  "zone": "Parking lot or street area. The fire appears to be near a roadway.",
+  "camera": "zone-a-mobile-cam",
+  "location": {
+    "lat": 28.6139,
+    "lng": 77.209
+  },
+  "snapshot_url": "snapshots\\anomalies\\2025-07-06T11-53-46.484369_fire.jpg",
+  "local_path": "snapshots\\anomalies\\2025-07-06T11-53-46.484369_fire.jpg",
+  "resolved": false
+}

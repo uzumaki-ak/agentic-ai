@@ -1,0 +1,18 @@
+# opencv-python==4.8.1.78
+# firebase-admin==6.4.0
+# google-generativeai==0.3.2
+# Pillow
+# requests==2.31.0
+# python-dotenv==1.0.0
+# numpy
+
+
+opencv-python==4.8.1.78
+firebase-admin==6.4.0
+google-generativeai==0.3.2
+Pillow
+requests==2.31.0
+python-dotenv==1.0.0
+numpy
+certifi==2023.11.17
+urllib3==2.1.0

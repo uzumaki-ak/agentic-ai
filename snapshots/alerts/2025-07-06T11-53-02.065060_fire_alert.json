@@ -1,0 +1,16 @@
+{
+  "timestamp": "2025-07-06T11:53:12.692404",
+  "anomaly_type": "fire",
+  "confidence": 0.8,
+  "description": "A vehicle appears to be on fire. Flames are visible near the rear of the vehicle. The image quality is low, making precise details difficult to ascertain.  There is a lack of immediate response which is concerning.",
+  "severity": "high",
+  "zone": "Roadway/Parking area",
+  "camera": "zone-a-mobile-cam",
+  "location": {
+    "lat": 28.6139,
+    "lng": 77.209
+  },
+  "snapshot_url": "snapshots\\anomalies\\2025-07-06T11-53-02.065060_fire.jpg",
+  "local_path": "snapshots\\anomalies\\2025-07-06T11-53-02.065060_fire.jpg",
+  "resolved": false
+}

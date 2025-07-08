@@ -1,0 +1,16 @@
+{
+  "timestamp": "2025-07-06T11:53:34.705021",
+  "anomaly_type": "fire",
+  "confidence": 0.8,
+  "description": "A vehicle appears to be on fire. Flames are visible near the top of the vehicle. The image quality is poor, making precise details difficult to ascertain, but the presence of flames strongly suggests a fire incident.",
+  "severity": "high",
+  "zone": "Street/roadway.  The incident appears to be in a parking or loading zone.",
+  "camera": "zone-a-mobile-cam",
+  "location": {
+    "lat": 28.6139,
+    "lng": 77.209
+  },
+  "snapshot_url": "snapshots\\anomalies\\2025-07-06T11-53-27.632495_fire.jpg",
+  "local_path": "snapshots\\anomalies\\2025-07-06T11-53-27.632495_fire.jpg",
+  "resolved": false
+}
