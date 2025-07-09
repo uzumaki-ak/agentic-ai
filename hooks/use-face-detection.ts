@@ -27,7 +27,7 @@ export function useFaceDetection() {
       } finally {
         setIsLoading(false)
       }
-    }
+    }   
 
     if (!modelsLoaded) {
       loadModels()
